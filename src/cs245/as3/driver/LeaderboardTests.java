@@ -47,4 +47,8 @@ public class LeaderboardTests {
 
         return lm.getIOPCount();
     }
+
+    public static void main(String[] args) {
+        System.out.println(TestWriteOps());
+    }
 }
